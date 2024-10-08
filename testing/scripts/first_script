@@ -1,0 +1,6 @@
+#!/bin/bash
+#START
+echo "Welcome $USER"
+echo "Your present working directory is `pwd`"
+echo "Today's date is `date`"
+#END
